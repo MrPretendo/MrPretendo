@@ -8,7 +8,7 @@ Derek Alejandro Arauz "MrPretendo", Ingeniero en Instrumentación Electrónica a
 👯 Busco colaborar activamente en proyectos y formar parte de comunidades de desarrollo. <br>
 🤝 Estoy abierto a participar en equipos de trabajo, ya sea de forma pasiva o activa. <br>
 💬 Pregúntame sobre diseño web y proyectos electrónicos. <br>
-⚡ Dato curioso: Programo, dibujo, cocino y sé centrar un div. <br>
+⚡ Dato curioso: Programo, dibujo, cocino y se centrar un div. <br>
 
 
 ## 🌐 Socials:
