@@ -1,14 +1,9 @@
 # Mi vida sobre el teclado
 
-Derek Alejandro Arauz "MrPretendo", Ingeniero en Instrumentación Electrónica apasionado por el desarrollo full stack y los gatos.
+Derek "MrPretendo", Ingeniero en Instrumentación Electrónica.
 
 ## 💫 Sobre mí:
-🔭 Actualmente busco oportunidades en desarrollo de aplicaciones (front-end, back-end o full-stack). <br>
-🌱 Estoy ampliando mis habilidades en diversas plataformas para proyectos profesionales y personales. <br>
-👯 Busco colaborar activamente en proyectos y formar parte de comunidades de desarrollo. <br>
-🤝 Estoy abierto a participar en equipos de trabajo, ya sea de forma pasiva o activa. <br>
-💬 Pregúntame sobre diseño web y proyectos electrónicos. <br>
-⚡ Dato curioso: Programo, dibujo, cocino y se centrar un div. <br>
+🔭 Nada interesante tbh. <br>
 
 
 ## 🌐 Socials:
